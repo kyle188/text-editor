@@ -15,8 +15,6 @@ Follow these steps in your termimal:
 
 type: 
 
-npm run build
-
 npm run start
 
 ## License

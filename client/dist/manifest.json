@@ -38,5 +38,6 @@
   "start_url": "/",
   "description": "Basic text editor",
   "background_color": "green",
-  "theme_color": "green"
+  "theme_color": "green",
+  "id": "/"
 }
